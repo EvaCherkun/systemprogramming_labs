@@ -1,0 +1,42 @@
+# =====================
+# Visual Studio
+# =====================
+.vs/
+*.user
+*.suo
+*.cache
+*.VC.db
+*.VC.opendb
+
+# =====================
+# Build folders
+# =====================
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# =====================
+# Executables
+# =====================
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+
+# =====================
+# Database / temp files
+# =====================
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
